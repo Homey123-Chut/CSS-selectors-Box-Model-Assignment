@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+
+}
+button {
+    color: white;
+    font-size: larger;
+        
+}
+.button1 {
+    background-color: rgb(249, 146, 214);
+    border: 5px solid rgb(164, 118, 164);
+    padding: 18px 50px;
+    border-radius: 25px;
+    margin-right: 20px; 
+}
+
+.button2 {
+    background-color: rgb(150, 86, 129);
+    border: 5px solid rgb(90, 47, 90);
+    padding: 18px 50px;
+    border-radius: 25px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+

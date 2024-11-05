@@ -1,0 +1,56 @@
+ body {
+.container {
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.container div {
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+
+.container {
+    background-color: rgb(125, 120, 120);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+.container div {
+    width: 80%;
+    height: 100%;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: white;
+}
+button {
+    color: white;
+    border-radius: 30px;
+    width: auto;
+    height: 30px;
+    border-style:none;
+}
+.btn1{
+    
+    background-color: rgb(142, 234, 4);
+}
+.btn2{
+    background-color: rgb(225, 147, 3);
+}
+.btn3{
+    background-color: rgb(235, 87, 235);
+}
+ }
